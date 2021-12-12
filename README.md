@@ -1,2 +1,2 @@
 # 100DaysOfSwiftUI
-my journey with learning SwiftUI
+my journey with SwiftUI
